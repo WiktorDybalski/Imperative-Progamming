@@ -1,0 +1,19 @@
+/*5. void range(double v[], double start, double step, int n);
+Funkcja wpisuje do n początkowych elementów rzeczywistej tablicy v
+wartości ciągu arytmatycznego o postępie step. Postęp może mieć wartość
+ujemną - wtedy kolejne elementy tablicy będą stanowić ciąg malejący.
+Wartość n powinna być nieujemna. Dla n = 1 funkcja wpisuje do początkowego
+elementu tablicy wartość start. Dla n = 0 funkcja nie zmienia zawartości
+tablicy.
+*/
+
+#include <stdio.h>
+
+void range(double v[], double start, double step, int n) {
+    
+}
+
+int main() {
+    printf("siemano!");
+    return 0;
+}
